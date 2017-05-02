@@ -1,0 +1,30 @@
+{
+
+    "package.json": {
+        "name": "desktop-release-template",
+        "description": "Peerio Desktop release template",
+        "repository": {
+            "type": "git",
+            "url": "git+https://github.com/PeerioTechnologies/desktop-release-template.git"
+        },
+        "author": "Technologies Peerio Inc. <support@peerio.com>",
+        "build": {
+            "appId": "com.peerio.release-template",
+            "productName": "Release.Template",
+            "win": {
+              "publisherName": "Peerio Technologies Inc."
+            }
+        }
+    },
+
+    "app/package.json": {
+        "name": "desktop-release-template",
+        "description": "Peerio Desktop release template",
+        "repository": {
+            "type": "git",
+            "url": "git+https://github.com/PeerioTechnologies/desktop-release-template.git"
+        },
+        "author": "Technologies Peerio Inc. <support@peerio.com>"
+    }
+
+}
