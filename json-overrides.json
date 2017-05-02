@@ -1,16 +1,16 @@
 {
 
     "package.json": {
-        "name": "desktop-release-template",
+        "name": "pinkio-messenger",
         "description": "Peerio Desktop release template",
         "repository": {
             "type": "git",
-            "url": "git+https://github.com/PeerioTechnologies/desktop-release-template.git"
+            "url": "git+https://github.com/PeerioTechnologies/release-test-private.git"
         },
         "author": "Technologies Peerio Inc. <support@peerio.com>",
         "build": {
             "appId": "com.peerio.release-template",
-            "productName": "Release.Template",
+            "productName": "Pinkio Messenger",
             "win": {
               "publisherName": "Peerio Technologies Inc."
             }
@@ -18,11 +18,12 @@
     },
 
     "app/package.json": {
-        "name": "desktop-release-template",
+        "name": "pinkio-messenger",
+        "productName": "Pinkio Messenger",
         "description": "Peerio Desktop release template",
         "repository": {
             "type": "git",
-            "url": "git+https://github.com/PeerioTechnologies/desktop-release-template.git"
+            "url": "git+https://github.com/PeerioTechnologies/release-test-private.git"
         },
         "author": "Technologies Peerio Inc. <support@peerio.com>"
     }

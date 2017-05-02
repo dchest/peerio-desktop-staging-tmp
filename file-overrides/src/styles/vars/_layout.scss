@@ -1,0 +1,25 @@
+$spacing-default: 8px;
+
+// MARGIN
+$margin-tiny: #{$spacing-default/2}; // 4px
+$margin-small: $spacing-default; // 8px
+$margin-default: #{$spacing-default * 2}; // 16px
+$margin-large: #{$spacing-default * 2.5}; // 20px
+
+// PADDING
+$padding-tiny: #{$spacing-default/2}; // 4px
+$padding-small: $spacing-default; // 8px
+$padding-default: #{$spacing-default * 2}; // 16px
+$padding-large: #{$spacing-default * 2.5}; // 20px
+
+// COMPONENT MEASUREMENTS
+// TODO: consider moving component specific vars into their component style sheets
+$app-nav-width: 80px;
+$chat-list-width: 272px; // TODO more generic name
+
+// MEDIA QUERIES
+$minimum-screen-height: 768px;
+$minimum-screen-width: 900px;
+
+// BACKGROUND PATTERN
+$background-pattern-size: 280px;
