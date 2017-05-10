@@ -3,9 +3,9 @@
  * release channel/whitelabel.
  */
 module.exports = {
-    appId: 'com.peerio.release-template', // must be the same as in package.json
+    appId: 'com.peerio.messenger-staging', // must be the same as in package.json
 
-    socketServerUrl: 'wss://icebear.peerio.com',
+    socketServerUrl: 'wss://hocuspocus.peerio.com',
     ghostFrontendUrl: 'https://mail.peerio.com',
 
     translator: {
