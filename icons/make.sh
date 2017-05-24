@@ -4,7 +4,7 @@ set -e
 
 BASE_DIR=$(dirname "$0")
 
-# Icon huge degree.
+# Icon hue degree.
 # from original peerio colors:
 # 160 - pink
 # 60 - bright green
