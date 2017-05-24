@@ -10,7 +10,7 @@
         "author": "Technologies Peerio Inc. <support@peerio.com>",
         "build": {
             "appId": "com.peerio.messenger-staging",
-            "productName": "Pinkio Messenger",
+            "productName": "Peerio Messenger Staging",
             "win": {
               "publisherName": "Peerio Technologies Inc."
             }
