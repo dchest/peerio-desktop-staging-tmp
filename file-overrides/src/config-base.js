@@ -11,6 +11,7 @@ module.exports = {
 
     socketServerUrl: 'wss://hocuspocus.peerio.com',
     ghostFrontendUrl: 'https://mail.peerio.com',
+    updateFeedUrl: 'https://stagingupdate.peerio.com',
 
     contacts: {
         supportUser: 'support',
