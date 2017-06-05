@@ -1,31 +1,28 @@
 {
-
     "package.json": {
-        "name": "peerio-messenger-staging",
-        "description": "Peerio Messenger Staging",
+        "name": "peerio-staging",
+        "description": "Peerio Staging",
         "repository": {
             "type": "git",
-            "url": "git+https://github.com/PeerioTechnologies/release-test-private.git"
+            "url": "git+https://github.com/PeerioTechnologies/peerio-desktop-staging.git"
         },
         "author": "Technologies Peerio Inc. <support@peerio.com>",
         "build": {
             "appId": "com.peerio.messenger-staging",
-            "productName": "Peerio Messenger Staging",
+            "productName": "Peerio Staging",
             "win": {
-              "publisherName": "Peerio Technologies Inc."
+                "publisherName": "Peerio Technologies Inc."
             }
         }
     },
-
     "app/package.json": {
-        "name": "peerio-messenger-staging",
-        "productName": "Peerio Messenger Staging",
-        "description": "Peerio Messenger Staging",
+        "name": "peerio-staging",
+        "productName": "Peerio Staging",
+        "description": "Peerio Staging",
         "repository": {
             "type": "git",
-            "url": "git+https://github.com/PeerioTechnologies/release-test-private.git"
+            "url": "git+https://github.com/PeerioTechnologies/peerio-desktop-staging.git"
         },
         "author": "Technologies Peerio Inc. <support@peerio.com>"
     }
-
 }
