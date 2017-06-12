@@ -4,7 +4,7 @@
         "description": "Peerio Staging",
         "repository": {
             "type": "git",
-            "url": "git+https://github.com/PeerioTechnologies/peerio-desktop-staging.git"
+            "url": "git+https://github.com/dchest/peerio-desktop-staging.git"
         },
         "author": "Technologies Peerio Inc. <support@peerio.com>",
         "build": {
@@ -21,7 +21,7 @@
         "description": "Peerio Staging",
         "repository": {
             "type": "git",
-            "url": "git+https://github.com/PeerioTechnologies/peerio-desktop-staging.git"
+            "url": "git+https://github.com/dchet/peerio-desktop-staging.git"
         },
         "author": "Technologies Peerio Inc. <support@peerio.com>"
     }
